@@ -28,3 +28,6 @@ With the exponential growth in network demands, **dynamic bandwidth allocation**
    - `Signal_Strength` (dBm)
    - `Allocated_Bandwidth` (Mbps and Kbps)
    - `Resource_Allocation` (%)
+
+## Methodology
+- shown in workflow.io
